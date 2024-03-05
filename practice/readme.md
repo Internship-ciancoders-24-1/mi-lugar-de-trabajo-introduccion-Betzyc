@@ -1,6 +1,6 @@
-CALCULADORA BASICA
+# CALCULADORA BASICA
 
-Funcionalidad
+## Funcionalidad
 
 Permite realizar las 4 operaciones basicas
 -Suma
@@ -12,7 +12,7 @@ Cuenta con una interfaz grafica con distintos botones para realizar las operacio
 Pude eliminarse un número o caracter
 Pude Limpiarse la pantalla.
 
-Herramientas utilizadas
+## Herramientas utilizadas
 Visual Studio Code
 
 HTML
@@ -29,4 +29,12 @@ Algoritmo
 6. Si también existen sumas o restas, llama a la funcion addition o subtraction, segun sea el caso.
 7. Si en el paso 5 no hay multiplicación o división procede a realizar el paso 6.
 8. Una vez validadas las operaciones se muestra el resultado en pantalla.
+
+![](../practice/img/image.png)
+![](../practice/img/2.png)
+
+# Resctricción para operar una cadena demasiado grande
+
+![](../practice/img/4.jpg)
+
 
