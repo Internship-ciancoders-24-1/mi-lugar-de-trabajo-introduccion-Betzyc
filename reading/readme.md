@@ -1,0 +1,9 @@
+# El gran libro de HTML5, CSS3 y JavaScript Ed 3
+
+Los sitios web son archivos visualizados desde ordenadores remotos, se basa en la arquitectura cliente servidor en el cual el primero responde a peticiones de los clientes. Los sitios están conformados por distintos directorios como imágenes recursos etc, lo que se ve desde un navegador son archivos con extensión html, estos archivos son accedidos por medio de llamadas IP al servidor, sin embargo por seguridad se asigna un dominio público a dichas ip para el acceso.
+
+Para que un cliente tenga acceso a un sitio debe escribir la URL la cual esta conformada por 3 partes, la primera es el protocolo en este caso http o https, seguido del dominio, y por ultimo el recurso al que se desea acceder es decir los archivos o paginas html. Cabe mencionar que existen dos tipos de URL absolutas y relativas.
+
+Un sitio web funciona gracias a ciertos lenguajes, entre ellos están HTML HyperText Makup Language, CSS y JavaScript, estos lenguajes dan instrucciones al navegador sobre su apariencia y funcionalidad es por ello que son usados comúnmente del lado del cliente, HTML por su parte es un lenguaje de etiquetas en el cual se define el contenido que se mostrara, por su parte CSS da los estilos a los archivos antes mencionados para que la apariencia sea intuitiva, ahora bien la funcionalidad de las paginas las da JavaScript, que es un lenguaje de programación capaz de calcular algoritmos complejos y procesar contenido de forma dinámica.
+
+Ahora bien del lado del servidor se ejecutan otros lenguajes como Java, PHP, Ruby y Python, esto para procesar información en el servidor antes de enviarla al usuario, los códigos generados del lado del servidor son conocidos como contenido dinámico, estos generan resultados que son enviados como respuesta a los request del navegador. Por medio de estos es posible crear contenido en tiempo real y almacenar la información de forma segura en el servidor.
