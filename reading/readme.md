@@ -1,4 +1,4 @@
-El gran libro de HTML5, CSS3 y JavaScript Ed 3
+# El gran libro de HTML5, CSS3 y JavaScript Ed 3
 
 Los sitios web son archivos visualizados desde ordenadores remotos, se basa en la arquitectura cliente servidor en el cual el primero responde a peticiones de los clientes. Los sitios están conformados por distintos directorios como imágenes recursos etc, lo que se ve desde un navegador son archivos con extensión html, estos archivos son accedidos por medio de llamadas IP al servidor, sin embargo por seguridad se asigna un dominio público a dichas ip para el acceso.
 
