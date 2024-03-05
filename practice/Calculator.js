@@ -193,7 +193,7 @@ function execute(key, event){
   keyDisplay(event);
   if(display.innerHTML.length>0){
     keyEqual.onclick = function(){
-      if(display.innerHTML.length< "15") {
+      if(display.innerHTML.length< "21") {
         display.style.fontSize = "2.5rem";
       }
       let item = getOperation();
@@ -206,10 +206,10 @@ function addOnClickToKey(key) {
   reset()
   undo()
   key.onclick = function(event) {
-    if(display.innerHTML.length < "15") {
+    if(display.innerHTML.length < "21") {
       execute(key, event) 
     }
-    else if(display.innerHTML.length < "25") { 
+    else if(display.innerHTML.length < "45") { 
       display.style.fontSize = "1.5rem"; 
       execute(key, event) 
     }
